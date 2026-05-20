@@ -1,0 +1,15 @@
+
+    p{
+      margin-top: 0px;
+      margin-bottom: 0px;
+      font-family: montserrat;
+      text-align: center;
+    }
+      .one{
+        font-size: 30px;
+        font-weight: bold;
+        margin-bottom: 10px;
+      }
+      .two{
+        font-size: 15px;
+      }
